@@ -1,3 +1,5 @@
+import streamlit as st
+
 # Add a header and text
 st.header('Getting Started with Streamlit')
 st.write("This app will help you explore basic Streamlit components.")
